@@ -40,7 +40,16 @@
 
 ## ꧁ Lista de informes link directo ꧂
 ```yam
-https://medium.com/@HackerMD/httpx-dnsx-live-hosts-filter-karo-aur-dns-secrets-
+https://medium.com/@0xmekky/ips-asn-cidr-when-the-game-is-the-network-we-play-the-map-how-target-com-fbaafdb66f0b
+https://freedium-mirror.cfd/https://medium.com/@BrownBearSec/bug-bounty-recon-horizontal-correlation-b7c81a32951a
+https://brutsecurity.medium.com/from-zero-to-recon-your-first-asn-based-scanning-workflow-b08c88709410
+https://medium.com/red-teaming-with-a-blue-team-mentality/basic-recon-starting-with-a-domain-name-17b58027c263
+https://medium.com/@ayushmohansah/a-comprehensive-vapt-methodology-applied-in-practical-security-assessments-20057a71112d
+https://medium.com/@maverickcx64/amass-subdomain-enumeration-a-bug-hunters-guide-3271ab5bf597
+https://medium.com/@Hackbyknowledge/subdomain-enumeration-recon-with-chaos-amass-alterx-more-2ba50614d6dd
+https://medium.com/@arashaddodhiya4948/how-i-discovered-100-assets-without-scanning-a-single-port-b4a624d76134
+https://djislucid.medium.com/subdomain-and-ip-reconnaissance-a-bug-bounty-journal-7541e278e5c2
+https://medium.com/@realm3ter/cidr-in-hacking-d2e6245d74ec
 
 ```
 <br>
