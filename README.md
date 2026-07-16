@@ -34,7 +34,7 @@
 
 <br><br>
 
-**✦ En esta sección encontrarás  informes reales sobre ASN RECON y casos generales de bug bounty que leí, estudié y guardé en mi gestor personal de informes para bug bounty.**
+**✦ En esta sección encontrarás 10 informes reales sobre ASN RECON y casos generales de bug bounty que leí, estudié y guardé en mi gestor personal de informes para bug bounty.**
 <br><br>
 
 
